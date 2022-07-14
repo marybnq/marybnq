@@ -1,7 +1,7 @@
 ### Federica Benacquista
 I'm a CS student and a self taught iOS developer.  
 
-![swift](https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=Swift&logoColor=white)
+![swift](https://simpleicons.org/icons/swift.svg-#F05138?style=for-the-badge&logo=Swift&logoColor=white)
 
 <!--
 **marybnq/marybnq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
