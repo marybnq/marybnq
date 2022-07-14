@@ -1,4 +1,4 @@
-### Federica Benacquista
+# Federica Benacquista
 I'm a CS student and a self taught iOS developer.  
 
 ![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
